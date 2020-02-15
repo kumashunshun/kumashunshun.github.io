@@ -1,0 +1,72 @@
+li{
+  list-style: none;
+}
+header{
+  height:60px;
+}
+.container{
+height: 60px;
+  background-color: #333333
+
+
+}
+.headerlogo{
+text-align: center;
+  color: white
+
+}
+.main{
+  height: 1000px;
+  background-image: url(image/658ECDFA-F3D1-4736-B22E-0E0CFF202C84.jpg);
+  background-size:cover;
+  color: white;
+
+}
+.btn{
+  padding: 10px 24px;
+  margin: 20px;
+  float: left;
+ color: white;
+ opacity: 0.8;
+}
+.ramenn{
+  background-color: #99ffff;
+}
+.zinbotyo{
+  background-color: #99ffcc;
+}
+.shibuya{
+  background-color: #99ff99;
+}
+.asakusa{
+  background-color: #3399ff;
+}
+.irumi{
+  background-color: #ff99ff;
+}
+.enosima{
+  background-color: #33ccff;
+}
+.tosikosi{
+  background-color: #ff3366;
+}
+.nikko{
+  background-color: #a16eff;
+}
+footer{
+  height:90px;
+  background-color: #ffccff
+
+}
+footer li{
+  color:white;
+}
+li:hover{
+  color:red;
+}
+span{
+  color:#ffccff;
+}
+span:hover{
+  color:red;
+}
